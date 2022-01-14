@@ -3,6 +3,7 @@
     "lodash": "^4.17.21",
     "normalize.css": "^8.0.1"
   },
+  "private": true,
   "name": "travel-site",
   "version": "1.0.0",
   "main": "index.js",
